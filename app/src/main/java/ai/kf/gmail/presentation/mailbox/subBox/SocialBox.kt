@@ -15,6 +15,6 @@ fun SocialBox(){
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        Text(text = "Apu aro posa")
+        Text(text = "Social Box Container")
     }
 }

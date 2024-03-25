@@ -15,6 +15,6 @@ fun PromotionalBox(){
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        Text(text = "Kaif valoo")
+        Text(text = "Promotional Box Container")
     }
 }
