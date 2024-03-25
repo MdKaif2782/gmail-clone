@@ -87,7 +87,7 @@ fun MailComponent(mail: Mail){
                    .size(20.dp)
            )
            Text(
-               text = "Penis.png",
+               text = "attachment.png",
                style = TextStyle(
                    color = Color(0xFF66656A),
                    fontSize = 14.sp

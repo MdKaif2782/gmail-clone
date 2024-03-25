@@ -43,9 +43,9 @@ fun PrimaryBox(innerPadding: PaddingValues? = null){
             val mail2 : Mail = Mail(
                 image = R.drawable.aqua_2,
                 sender = "Aqua sama",
-                subject = "I'm hungry af bro gemme booze",
+                subject = "Kazuma Kazuma! Booze! Booze! Booze!",
                 time = "10:00 AM",
-                subtitle = "Kazuma Kazuma! Booze! Booze! Booze!",
+                subtitle = "On Tue, 12 Oct 2021 at 15:13",
                 )
             MailComponent(mail)
             MailComponent(mail2)
